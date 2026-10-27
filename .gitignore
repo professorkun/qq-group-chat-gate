@@ -1,0 +1,13 @@
+# 运行时数据：配置、状态、日志、群历史库都不进 git
+data/*
+!data/.gitkeep
+
+# 补丁备份
+*.bak-qq-group-chat-gate
+*.bak-*
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

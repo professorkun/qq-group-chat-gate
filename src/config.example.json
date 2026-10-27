@@ -1,0 +1,13 @@
+{
+  "mode": "block",
+  "threshold": 0.45,
+  "dailyCap": 12,
+  "minGapSeconds": 120,
+  "quietMinutesForBonus": 10,
+  "contextMessages": 12,
+  "burstWindowSeconds": 60,
+  "burstCount": 5,
+  "muteMinutes": 15,
+  "namePattern": "助手|小助手|bot",
+  "databasePath": ""
+}
